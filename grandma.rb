@@ -14,7 +14,7 @@
 
 
 
-def speak_to_grandma
+def speak_to_grandma(phrase)
   if phrase == "Hi".downcase
     return "HUH?! SPEAK UP SONNY!"
   elsif phrase == "Have you eaten today?".upcase
